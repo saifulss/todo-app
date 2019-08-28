@@ -25,5 +25,4 @@ Section to be updated as we run through "pin-worthy" reference material through 
 - TDD
 
 ## Video Recordings
-
-1. [Wed 28-Aug-2019](http://bit.ly/farful-weekly-dev-wednesdays)
+You can find the uploaded video recordings at this [YouTube playlist](http://bit.ly/farful-weekly-dev-wednesdays).
