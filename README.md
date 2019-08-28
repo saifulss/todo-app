@@ -17,3 +17,4 @@ Section to be updated as we run through "pin-worthy" reference material through 
 - react-router
 - redux
 - redux-actions-helper
+- e2e testing (Cypress?)
