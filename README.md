@@ -15,6 +15,7 @@ Section to be updated as we run through "pin-worthy" reference material through 
 - lint-staged
 - react-testing-library
 - react-router
+- history
 - redux
 - redux-actions-helper
 - e2e testing (Cypress?)
