@@ -1,7 +1,8 @@
 ## References
 
-For Git commit message guidance:
-[this article](https://chris.beams.io/posts/git-commit/#imperative)
+Section to be updated as we run through "pin-worthy" reference material through the weeks.
+
+- For Git commit message guidance: [this article](https://chris.beams.io/posts/git-commit/#imperative)
 
 ## Roadmap
 
