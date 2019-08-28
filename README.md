@@ -13,6 +13,9 @@ Section to be updated as we run through "pin-worthy" reference material through 
 - ~~Configure eslint~~
 - husky
 - lint-staged
+- Jest code coverage
+- Travis build badge
+- Coveralls code coverage badge
 - react-testing-library
 - react-router
 - history
@@ -20,3 +23,7 @@ Section to be updated as we run through "pin-worthy" reference material through 
 - redux-actions-helper
 - e2e testing (Cypress?)
 - TDD
+
+## Video Recordings
+
+1. [Wed 28-Aug-2019](http://bit.ly/farful-weekly-dev-wednesdays)
