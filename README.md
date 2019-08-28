@@ -5,7 +5,11 @@ For Git commit message guidance:
 
 ## Roadmap
 
-- (do plumbing stuff first)
+- ~~Roll out the app using create-react-app with TS~~
+- ~~Public repo on GitHub~~
+- ~~.gitignore~~
+- ~~Integrate Travis CI~~
+- ~~Configure eslint~~
 - React Testing Library
 - set up react-router
 - redux
