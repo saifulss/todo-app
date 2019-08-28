@@ -10,7 +10,7 @@ For Git commit message guidance:
 - ~~.gitignore~~
 - ~~Integrate Travis CI~~
 - ~~Configure eslint~~
-- React Testing Library
-- set up react-router
+- react-testing-library
+- react-router
 - redux
 - redux-actions-helper
