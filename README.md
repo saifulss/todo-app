@@ -11,6 +11,8 @@ Section to be updated as we run through "pin-worthy" reference material through 
 - ~~.gitignore~~
 - ~~Integrate Travis CI~~
 - ~~Configure eslint~~
+- husky
+- lint-staged
 - react-testing-library
 - react-router
 - redux
