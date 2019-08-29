@@ -21,6 +21,7 @@ Section to be updated as we run through "pin-worthy" reference material through 
 - history
 - redux
 - redux-actions-helper
+- redux-thunk
 - e2e testing (Cypress?)
 - TDD
 
