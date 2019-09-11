@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/saifulss/todo-app.svg?branch=master)](https://travis-ci.org/saifulss/todo-app)
+
 ## References
 
 Section to be updated as we run through "pin-worthy" reference material through the weeks.
