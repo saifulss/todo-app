@@ -1,3 +1,5 @@
+dist: trusty
+
 language: node_js
 
 node_js:
@@ -10,6 +12,13 @@ cache:
 script:
   - yarn lint
   - yarn test
+  - sonar-scanner
 
 on:
   branch: master
+
+addons:
+  sonarcloud:
+    organization: "saifulss"
+    token:
+      secure: JIaogG/9k+FGd+GfNt7OEz0ip29vcNyyApuNDp9Nw2UQw6hvtbr14AxjrZvn6lJQi1RURuo0A2L0r4b4LRt1qkay8GwTFoy+WliDjMJNVtzrJmpRfrA5Uiazv/c19Q+kPIFwAF6RLwnuC7dT/a0H19EsL2MAf6vmXXSfX4mEAe1KEwKqGj9k2ClI8DxLk8/QMHSCpldXLepHrGPCprbj/g1BVAqVne2NSZKU7E590RRR268PGCCnFy/Xs+IYUFkEpukpUq/TnySDGNotjDFBAUMZDd6p+0cGmwUQtl5K3A4f47H7o9WxLl7uyziUj9pj7xZhdIW8BbG590kNPMg54NLDHDwSHMs95QXf4Dwl6AZcdEE3xw3NopyHHn+ZL9h6w/MLeq8BjPRL1xR3dfdhuo+cIzgZ4JPcRjrB7O6hMLpdl1C9wAy8gDd0I2YToIu2C7ip8TVChmDldb5x4OVqqBCIFbt5375qfacUCwi49Qw66/gC15ljzZRoDbCQsMfwF3YRLRH10ck1Ydsi7MYp44DMhtIeMb+uhvYnEWsCLn7GVMxXwPVMOGyzO2Eyn864Je/g1tB1P0aPqs5vkLyP4JJXGLMt7i68ahxTTqmDUgbOnpiyTKxtQHOlmmmmrlIVPbbDb25JIgaC7zhh8XvZEDd9EtmUHugOmCCrTuWPo8U=
