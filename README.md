@@ -13,10 +13,10 @@ Section to be updated as we run through "pin-worthy" reference material through 
 - ~~.gitignore~~
 - ~~Integrate Travis CI~~
 - ~~Configure eslint~~
-- husky
-- lint-staged
-- Jest code coverage
-- Travis build badge
+- ~~husky~~
+- ~~lint-staged~~
+- ~~Jest code coverage~~
+- ~~Travis build badge~~
 - Coveralls code coverage badge
 - react-testing-library
 - react-router
